@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ReadWriteFile</string>
+    <string name="add_data">Add Data</string>
+    <string name="content_from_file">Content from File</string>
+    <string name="delete_file">Delete File</string>
+</resources>
